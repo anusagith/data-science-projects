@@ -8,6 +8,9 @@ basic to intermediate data science projects. Files in this repo are as follows:
 5. Lasso and Ridge regression - House price prediction
 6. Advanced machine leaning models - Telecom churn prediction
      6a. Data model 1: Logistic regression without PCA (handling data imbalance on train data using SMOTE)
+     
      6b. Data model 2: Logistic regression with PCA (using balanced data)
+     
      6c. Data model 3: Decision trees with PCA (using balanced data)
+     
      6d. Data model 4: Random Forest with PCA (using balanced data)
