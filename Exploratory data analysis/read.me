@@ -1,0 +1,24 @@
+
+LOAN DEFAULTER ANALYSIS - EDA CASE STUDY
+
+Problem Statement - Points to note:
+1. Assume a bank
+2. customer Mr.X is looking for a loan
+3. Mr.Y is an employee of the bank; and can decide to which customer he can give loan
+4. Mr.Y can either approve or reject a loan
+5. But by doing so, below are the possible errors that can Mr.Y can commit
+- credit loss: Y will approve loan of X who is a defaulter [have payment issues]    
+- interest loss: if Y rejects loan request of X who is actually a non-defaulter [no payment issues] 
+
+SOLUTION
+1. Come up with some set of rules or indicators using which the bank can decide whether they should approve or reject a loan 
+2. Using EDA techniques you need to analyse the data and come up with insights 
+3. what are the strong variables that can help the bank to predict the customer who defaults
+
+Data Set - There are two files
+application_data.csv : it consists of the end result info regarding customers latest loan.
+previous_application.csv : all previous loan results will be present here.
+
+Note:
+Missing Values --> Only reported; no imputation done
+Outliers ---> only reported; not treated
