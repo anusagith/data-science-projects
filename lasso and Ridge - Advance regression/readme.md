@@ -1,4 +1,4 @@
-PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 A US based housing company named surprise housing company decided to enter australian market. In order to do that, they want to understand the prefereces of australian market; as in,
 
@@ -7,7 +7,7 @@ A US based housing company named surprise housing company decided to enter austr
 2. A model to predict the features that affect pricing of the house.
 3. Once this is achieved, they can use the model to their advantage.
 
-ANALAYSIS APPROACH
+**ANALAYSIS APPROACH**
 
 1. Reading and understanding Data - basic inspection
 2. Data Cleaning - Handling missing values, dropping unwanted columns
