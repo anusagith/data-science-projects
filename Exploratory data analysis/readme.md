@@ -1,6 +1,6 @@
 
 
-Challenge:
+**Challenge:**
 
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent
 credit history.
@@ -11,14 +11,14 @@ entire credit amount.
 2. Interest loss : Bank rejects loan request of Mr. X who can make timely payments there by losing a good
 customer and interest on loan amount.
 
-SOLUTION
+**SOLUTION**
 
 This case study aims to identify patterns using EDA, from existing data available about the clients and past
 loan history of the clients. These patterns will provide insights, if client could be a possible loan defaulter and
 helps bank to take actions such as denying the loan, reducing the amount of loan, lending ( to risky applicants)
 at a higher interest rate, etc
 
-DATASETS
+**DATASETS**
 
 1. Application Dataset - The current information of the customer.
 
@@ -26,7 +26,7 @@ DATASETS
 
 
 
-ANALYSIS APPROACH
+**ANALYSIS APPROACH**
 
 ✓ Understanding the Dataset - Reading the dataset, doing basic checks like datatypes of each column, shape, statistical
 description of numerical columns.
